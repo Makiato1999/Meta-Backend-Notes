@@ -1,2 +1,2 @@
-# note-Backend-Meta
-Meta Back-End Developer Professional Certificate
+# Meta Back-End Developer Professional Certificate
+provided by Meta & Coursera
