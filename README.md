@@ -6,6 +6,7 @@ _provided by Meta & Coursera_
    - [Object Oriented Programming](#anchor_21)
 3. [Version Control](#anchor_3)
    - [git commands](#anchor_31)
+4. [Introduction to Databases for Back-End Development](#anchor_4)
 ## Introduction to Backend Development<a name="anchor_1"></a>
 1. HTML, CSS
 2. UI framworks and libraries, Bootstrap
@@ -176,3 +177,9 @@ _provided by Meta & Coursera_
    - ```git commit -m "add helloWorld.java to main branch..."```
    - ```git push -u origin yourBranchName```
    - updated local content from remote repository, ```git pull```
+## Introduction to Databases for Back-End Development<a name="anchor_4"></a>
+1. initialize
+   - Data Definition Language
+   - Data Manipulation Language
+   - Data Query Language
+2. SQL
